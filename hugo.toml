@@ -8,12 +8,12 @@ theme = 'paper'
     name = 'About'
     pageRef = '/about'
     weight = 10
-[[menu.main]]
-    name = 'CV'
-    url = 'https://google.com/'
-    weight = 20
-    [menu.main.params]
-        external = true
+# [[menu.main]]
+#     name = 'CV'
+#     url = 'https://google.com/'
+#     weight = 20
+#     [menu.main.params]
+#         external = true
 
 # disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
