@@ -11,7 +11,7 @@ theme = 'paper'
 [[menu.main]]
     name = 'CV'
     url = 'https://google.com/'
-    weight = 10
+    weight = 20
     [menu.main.params]
         external = true
 
