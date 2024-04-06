@@ -29,7 +29,7 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
   monoDarkIcon = true                       # show monochrome dark mode icon
   gravatarCdn = 'https://cdn.v2ex.com/gravatar/'         # e.g. 'https://cdn.v2ex.com/gravatar/'
   math = true                               # enable KaTeX math typesetting globally
-  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  # graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
 
   # giscus
 [params.giscus]
