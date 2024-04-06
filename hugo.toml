@@ -3,7 +3,13 @@ languageCode = 'en-us'
 title = 'Ömer Melih Gül'
 theme = 'paper'
 
-disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
+[menus]
+[[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 10
+
+# disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
 [params]
   # color style
@@ -32,11 +38,11 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
   # graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
 
   # giscus
-[params.giscus]
-  repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
-  repoId = 'YOUR_GISCUS_REPO_ID'
-  category = 'YOUR__GISCUS_CATEGORY'
-  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
-  mapping = 'pathname'
-  theme = 'light'
-  lang = 'zh-CN'
+# [params.giscus]
+#   repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
+#   repoId = 'YOUR_GISCUS_REPO_ID'
+#   category = 'YOUR__GISCUS_CATEGORY'
+#   categoryId = 'YOUR_GISCUS_CATEGORY_ID'
+#   mapping = 'pathname'
+#   theme = 'light'
+#   lang = 'zh-CN'
