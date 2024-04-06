@@ -11,11 +11,11 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
   # header social icons
   twitter = 'omermelihgul'                  # twitter.com/YOUR_TWITTER_ID
-  github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
-  instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
-  linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
-  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
-  rss = true                                # show rss icon
+  github = 'omermelihgul'                 # github.com/YOUR_GITHUB_ID
+  # instagram = 'omermgul'           # instagram.com/YOUR_INSTAGRAM_ID
+  linkedin = 'omermelihgul'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  # mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  # rss = true                                # show rss icon
 
   # home page profile
   avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
@@ -27,7 +27,7 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
   disableHLJS = true                        # disable highlight.js
   disablePostNavigation = true              # disable post navigation
   monoDarkIcon = true                       # show monochrome dark mode icon
-  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  gravatarCdn = 'https://cdn.v2ex.com/gravatar/'         # e.g. 'https://cdn.v2ex.com/gravatar/'
   math = true                               # enable KaTeX math typesetting globally
   graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
 
